@@ -1,1 +1,1 @@
-# odin-recipes
+This is an Odin Project recipe project. I will demonstrate what I have learned so far this curriculum
